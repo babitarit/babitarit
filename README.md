@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babitarit&show_icons=true&theme=radical&locale=en&layout=compact" alt="babitarit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babitarit&show_icons=true&theme=radical&locale=en" alt="babitarit" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=babitarit&show_icons=true&theme=radical&locale=en" alt="babitarit " /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babitarit&theme=radical" alt="babitarit" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=babitarit&theme=radical" alt="babitarit " /></p>
